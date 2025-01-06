@@ -2,7 +2,7 @@
 
 After creating the instance, you can start directly with lightsail terminal or you can the lightsail's terminal on your pc terminal.
 
-# 1.1 Local Terminal Access:
+# 1.1  Lightsail's Terminal Access From local Machine Terminal:
 To open your lightsail follow the following step:
     1. Downlaod the ssh key from lightsail, you can downlaod it ..........
     2. Open your terminal and paste `cp Download/private_key.pem ~/.ssh/` (This command will copy the file from download to .ssh folder)
