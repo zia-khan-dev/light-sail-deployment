@@ -9,9 +9,9 @@ To open your lightsail follow the following step:
     3. paste `sudo nano  ~/.ssh/config` on your terminal.
     4. add these line to your above config file.
 
-    `Host lightsail-instance
-    HostName "your_ipv4_address"
-    User "bitnami"
-    IdentityFile ~/.ssh/your_private_key.pem`
+    `Host lightsail-instance`
+    `HostName "your_ipv4_address"`
+    `User "bitnami"`
+    `IdentityFile ~/.ssh/your_private_key.pem`
 
-    that's it now you can access the light sail terminal from your pc's terminal by entering command `ssh lightsail-instance`
+    That's it now you can access the light sail terminal from your pc's terminal by entering command `ssh lightsail-instance`
